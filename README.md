@@ -1,12 +1,11 @@
 ### Hi,Souvik is here 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Devil-99&label=Profile%20views&color=0e75b6&style=flat" alt="Devil-99" /> </p>
 
-- 👀 Actively looking for Software Development Internship
-- 🔭 I’m currently working on My Blogger Portfolio
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Open Source Project
-- 🤔 I’m looking for help with Machine Learning Projects
-- 💬 Ask me about Javascript,Data Structer,Algorithm
+- 🏫 Ex-Amazon SDE Intern (6 months).
+- 👀 I’m currently looking for FTE position in SDE role.
+- 📕 I’m preparing DSA and Coding.
+- 🤔 I’m looking for help with Machine Learning Projects.
+- 💬 Ask me about Data Structer,Algorithm,DBMS.
 - 📫 How to reach me: souvikmaji1999@gmail.com
 <br/>
 <br/>
